@@ -95,7 +95,7 @@ sales-data-analysis-dashboard/
 
 ## 👩‍💻 Author
 
-Kritika Chaudhary
+**Kritika Chaudhary**
 BTech CSE | IMS Engineering College  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kritika-chaudhary-619664327)

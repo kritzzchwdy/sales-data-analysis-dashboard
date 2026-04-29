@@ -95,8 +95,8 @@ sales-data-analysis-dashboard/
 
 ## 👩‍💻 Author
 
+Kritika Chaudhary
 BTech CSE | IMS Engineering College  
-Campus Ambassador & Data Analytics Intern — Navyan  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kritika-chaudhary-619664327)
 
